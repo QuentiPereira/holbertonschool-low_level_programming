@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.d>
+#include <stdio.h>
 /* more headers goes there */
 /* betty style doc for function main goes there */
 int main(void)
@@ -22,4 +22,5 @@ int main(void)
 		printf("%d is %s\n", n, "zero");
 	}
 	return (0);
+
 }
